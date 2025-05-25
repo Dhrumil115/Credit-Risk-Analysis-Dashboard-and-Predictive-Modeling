@@ -88,3 +88,14 @@ This project uses the following Python libraries:
 - seaborn
 - matplotlib
 - scikit-learn
+
+  ## 🛠️ Tools & Technologies
+
+| Category        | Tools/Technologies Used                                      |
+|----------------|--------------------------------------------------------------|
+| Programming     | Python                                                       |
+| Data Handling   | pandas, numpy                                                |
+| Visualization   | seaborn, matplotlib, Power BI                                |
+| Modeling        | scikit-learn (Random Forest, Decision Tree, Logistic Regression) |
+| Deployment      | HTML, AWS S3 (Static Website Hosting)                        |
+| Version Control | Git, GitHub                                                  |
