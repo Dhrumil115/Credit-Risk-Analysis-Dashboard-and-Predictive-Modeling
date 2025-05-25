@@ -79,7 +79,6 @@ The interactive Power BI dashboard visualizes all key metrics and trends and is 
 
 **[Click here to view the dashboard](http://credit-risk-analysis-dashboard.s3-website-us-east-1.amazonaws.com)**  
 <br>
-
 ## Dependencies
 
 This project uses the following Python libraries:
