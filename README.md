@@ -84,7 +84,7 @@ The interactive Power BI dashboard visualizes all key metrics and trends and is 
 🔗 **[Click here to view the live dashboard](http://credit-risk-analysis-dashboard.s3-website-us-east-1.amazonaws.com)**  
 <br>
 
-![Dashboard Preview](Assets/dashboard.png)
+!**[Dashboard Preview](Assets/dashboard.png)**
 
 ---
 
