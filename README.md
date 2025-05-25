@@ -77,7 +77,7 @@ The best performing model was the Random Forest Classifier with 95% accuracy.
 
 The interactive Power BI dashboard visualizes all key metrics and trends and is hosted as a static website on AWS S3.
 
-🔗 **[Click here to view the live dashboard](http://credit-risk-analysis-dashboard.s3-website-us-east-1.amazonaws.com)**  
+**[Click here to view the dashboard](http://credit-risk-analysis-dashboard.s3-website-us-east-1.amazonaws.com)**  
 <br>
 
 **[Dashboard Preview](Assets/dashboard.png)**
