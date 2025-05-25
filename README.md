@@ -89,7 +89,7 @@ This project uses the following Python libraries:
 - matplotlib
 - scikit-learn
 
-  ## 🛠️ Tools & Technologies
+ ## 🛠️ Tools & Technologies
 
 | Category        | Tools/Technologies Used                                      |
 |----------------|--------------------------------------------------------------|
