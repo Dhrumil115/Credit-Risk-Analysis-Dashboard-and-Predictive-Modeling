@@ -6,7 +6,6 @@ Credit risk analysis is an essential component of modern financial services, ena
 
 In this project, we carried out a detailed analysis of credit risk by applying machine learning models on a curated dataset. After performing data cleaning, exploratory data analysis (EDA), and feature engineering, we built several models including Random Forest, Decision Tree, and Logistic Regression. Among these, the Random Forest classifier achieved the highest accuracy of 95%. The project highlights the importance of features such as loan amount, interest rates, and annual income in predicting loan defaults, providing valuable insights for optimizing credit risk strategies.
 
----
 
 ## 📌 Key Insights & Project Scope
 
@@ -24,8 +23,6 @@ This project focuses on analyzing a dataset of 80,000+ loan records to extract i
 - **Default Rate**: 10.98%  
 - **Top Loan Grades**: B and C carry the highest loan volumes  
 - **Employment Length Impact**: Users with ≤1 year of employment show higher default rates
-
----
 
 ## Project Overview
 
@@ -75,7 +72,6 @@ All models were trained and evaluated on a cleaned dataset, using accuracy, conf
 
 The best performing model was the Random Forest Classifier with 95% accuracy.
 
----
 
 ## 📈 Dashboard Preview
 
@@ -84,9 +80,8 @@ The interactive Power BI dashboard visualizes all key metrics and trends and is 
 🔗 **[Click here to view the live dashboard](http://credit-risk-analysis-dashboard.s3-website-us-east-1.amazonaws.com)**  
 <br>
 
-!**[Dashboard Preview](Assets/dashboard.png)**
+**[Dashboard Preview](Assets/dashboard.png)**
 
----
 
 ## Dependencies
 
