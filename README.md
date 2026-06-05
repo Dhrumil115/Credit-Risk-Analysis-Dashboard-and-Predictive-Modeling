@@ -1,6 +1,5 @@
-# 📊 Credit Risk Analysis
-
-Credit risk analysis is an essential component of modern financial services, enabling lenders to predict the likelihood of borrowers defaulting on their loans. This project aims to utilize data-driven techniques to assess credit risk by developing machine learning models. The analysis helps lenders better understand patterns in loan data and make more informed credit decisions.
+# 📊 CCredit Risk Analysis Dashboard & Predictive Modeling
+Credit Risk Analysis Dashboard & Predictive Modeling is an essential component of modern financial services, enabling lenders to predict the likelihood of borrowers defaulting on their loans. This project aims to utilize data-driven techniques to assess credit risk by developing machine learning models. The analysis helps lenders better understand patterns in loan data and make more informed credit decisions.
 
 
 ## 🧾 Abstract
